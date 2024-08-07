@@ -1,5 +1,6 @@
 # advance_exam_part1
 ## 👉 Quotes app
+The Quotes App is a beautifully designed application that brings you a collection of inspiring, motivational, and thought-provoking quotes from various authors. This app allows users to explore, save, and share their favorite quotes easily.
 <div> 
  
 
