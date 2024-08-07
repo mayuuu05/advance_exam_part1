@@ -1,7 +1,5 @@
 # advance_exam_part1
-
-# advance_exam_part1
-
+## 👉 Quotes app
 <div> 
  
 
