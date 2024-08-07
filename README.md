@@ -2,6 +2,12 @@
 ## 👉 Quotes app
 The Quotes App is a beautifully designed application that brings you a collection of inspiring, motivational, and thought-provoking quotes from various authors. This app allows users to explore, save, and share their favorite quotes easily.
 
+## Features ❤
+Extensive Collection: Access a wide range of quotes from different categories and authors.
+
+- Save Favorites: Save and organize your favorite quotes for quick access.
+
+
 ## 📸ScreenShots
 <div> 
  
